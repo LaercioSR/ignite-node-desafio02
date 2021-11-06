@@ -11,10 +11,10 @@ Link com Detalhes: [Desafio 01 - Trabalhando com middlewares](https://www.notion
 
 
 ## Requisitos
-- [ ] Checar se usuário já existe;
-- [ ] Checar se usuário pode criar uma nova todo;
-- [ ] Checar se a todo existe;
-- [ ] Encontrar usuário por ID;
+- [x] Checar se usuário já existe;
+- [x] Checar se usuário pode criar uma nova todo;
+- [x] Checar se a todo existe;
+- [x] Encontrar usuário por ID;
 
 
 ## Tecnologias
