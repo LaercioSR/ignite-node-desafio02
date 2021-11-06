@@ -7,7 +7,7 @@
 ## Descrição do Projeto
 Este repositório contêm minha solução para o segundo desafio da trilha de NodeJs da plataforma Ignite da [Rockeseat](https://www.rocketseat.com.br/).
 
-Link com Detalhes: [Desafio 01 - Trabalhando com middlewares](https://www.notion.so/Desafio-02-Trabalhando-com-middlewares-4f89bf538c2e4ee291382b92bdc36790)
+Link com Detalhes: [Desafio 02 - Trabalhando com middlewares](https://www.notion.so/Desafio-02-Trabalhando-com-middlewares-4f89bf538c2e4ee291382b92bdc36790)
 
 
 ## Requisitos
